@@ -1,0 +1,4 @@
+username:password:first_name:last_name:email
+jino:password:Jino:Conklin:temporizer@gmail.com
+nate:nopassword:Nate:Shoemaker:nate@shoemaker.com
+chris:mypassword:Chris:Martin:chris@martin.com
